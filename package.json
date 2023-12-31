@@ -1,0 +1,38 @@
+{
+  "title": "Entcoder",
+  "name": "entcoder",
+  "version": "1.0.0",
+  "description": "Fastest entities or ascii encode/decode Javascript library.",
+  "main": "dist/entcoder.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "types": "dist/entcoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jqrony/entcoder.git"
+  },
+  "keywords": [
+    "entcoder",
+    "html2dec",
+    "dec2html",
+    "html2hex",
+    "hex2html",
+    "encode",
+    "decode",
+    "html",
+    "entities",
+    "encode entities",
+    "decode entities"
+  ],
+  "author": "Shahzada Modassir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jqrony/entcoder/issues"
+  },
+  "homepage": "https://github.com/jqrony/entcoder#readme"
+}
